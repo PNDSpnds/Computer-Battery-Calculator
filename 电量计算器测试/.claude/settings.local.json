@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 battery_calculator.py)",
+      "Bash(javac --version)",
+      "Bash(java --version)"
+    ]
+  }
+}
